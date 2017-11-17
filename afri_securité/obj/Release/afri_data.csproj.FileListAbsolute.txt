@@ -1,0 +1,9 @@
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.export_form.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.Form1.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.Form_situa_facture.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.Properties.Resources.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.csproj.GenerateResource.Cache
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.TrustInfo.xml
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.exe.manifest
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.exe
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Release\afri_data.pdb

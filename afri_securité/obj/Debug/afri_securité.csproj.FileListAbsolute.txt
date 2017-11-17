@@ -1,0 +1,6 @@
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Debug\afri_securité.csprojResolveAssemblyReference.cache
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Debug\afri_securité.export_form.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Debug\afri_securité.Form1.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Debug\afri_data.Form_situa_facture.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Debug\afri_data.Properties.Resources.resources
+C:\Users\inconnu\Desktop\afri_securité\afri_securité\obj\Debug\afri_securité.csproj.GenerateResource.Cache
